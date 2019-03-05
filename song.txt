@@ -13,12 +13,3 @@ Why is it so hard for her to decide which she loves more?
 Her or...
 Pizza?
 
-New changes 3, put I still want pizza...
-
-some content to delete
--------------------
-useless commit
-
-another couplet feature branch
-
-one more feature commit
