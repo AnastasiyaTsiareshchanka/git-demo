@@ -21,3 +21,4 @@ Pizza?
 
 Conglict commit feature
 
+For tag only
